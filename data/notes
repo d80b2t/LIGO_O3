@@ -1,0 +1,42 @@
+===============================================================
+==
+==
+== 	 N  O  T  E  S 
+==
+==
+===============================================================
+
+/cos_pc19a_npr/data/LIGO/O3
+
+
+
+ Purpose
+===============================================================
+Some wee notes on the LIGO/Virgo Third Observing Run, a.k.a.  "LIGO O3"
+
+
+
+ Useful URLs
+===============================================================
+https://www.ligo.caltech.edu/
+https://www.ligo.caltech.edu/page/observatory-status
+https://www.ligo.caltech.edu/news/ligo20180921
+
+LIGO Document Control Center Portal
+https://dcc.ligo.org/cgi-bin/DocDB/DocumentDatabase
+https://dcc.ligo.org/LIGO-M1000066-v25/public
+
+
+
+
+  SuperEvents_distance.tbl
+===============================================================
+    https://gracedb.ligo.org/latest/
+
+Then make a list of the ``ADVOK'' events
+    https://gracedb.ligo.org/documentation/labels.html
+
+Try wherever possible to take the numbers of the latest,
+greatest areal and distance measures.
+
+

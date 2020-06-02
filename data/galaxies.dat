@@ -1,0 +1,6 @@
+type redshift lum
+"barred spiral" 0.02422 1.00e+40
+spiral 0.13200 1.20e+40
+"peculiar (ring)" 0.22000 2.00e+40
+elliptical 0.34000 3.00e+40
+elliptical 0.45000 4.00e+40

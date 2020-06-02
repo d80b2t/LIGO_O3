@@ -1,0 +1,55 @@
+
+
+
+
+
+https://gracedb.ligo.org/superevents/S190517h/view/
+===========================================================
+
+
+
+> cksum bayestar.fits.gz,0 
+1835746483 1623567 bayestar.fits.gz,0
+> md5sum bayestar.fits.gz\,0 
+9b948872bbd25818651341c16fe98e1c  bayestar.fits.gz,0
+
+bayestar.fits.gz
+
+https://github.com/lsst-uk/lasair/tree/master/src/skymap
+
+
+
+
+
+
+
+
+
+
+
+https://dcc.ligo.org/public/0119/P1500071/007/index.html
+
+GOING THE DISTANCE
+
+MAPPING HOST GALAXIES OF LIGO AND VIRGO SOURCES IN THREE DIMENSIONS USING LOCAL COSMOGRAPHY AND TARGETED FOLLOW-UP
+L. P. Singer, H.-Y. Chen, D. E. Holz,
+
+Going the Distance: Mapping Host Galaxies of LIGO and Virgo Sources in Three Dimensions Using Local Cosmography and Targeted Follow-up
+L. P. Singer, H.-Y. Chen, D. E. Holz, W. M. Farr, L. R. Price,
+V. Raymond, S. B. Cenko, N. Gehrels, J. Cannizzo, M. M. Kasliwal,
+S. Nissanke, M. Coughlin, B. Farr, Alex L. Urban, S. Vitale,
+J. Veitch, P. Graff, C. P. L. Berry, S. Mohapatra, I. Mandel
+https://arxiv.org/abs/1603.07333v4
+
+
+Supplement: Going the Distance: Mapping Host Galaxies of LIGO and Virgo Sources in Three Dimensions Using Local Cosmography and Targeted Follow-up
+L. P. Singer, H.-Y. Chen, D. E. Holz, W. M. Farr, L. R. Price,
+V. Raymond, S. B. Cenko, N. Gehrels, J. Cannizzo, M. M. Kasliwal,
+S. Nissanke, M. Coughlin, B. Farr, Alex L. Urban, S. Vitale,
+J. Veitch, P. Graff, C. P. L. Berry, S. Mohapatra, I. Mandel
+https://arxiv.org/abs/1605.04242v3
+
+
+https://github.com/lpsinger
+https://github.com/lpsinger/bayestar-skyloc-mdc
+https://github.com/lpsinger/ligo.skymap

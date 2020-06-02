@@ -1,0 +1,13 @@
+
+There is no difference betweeen
+
+-rw-r--r--@  1 npr1  staff  777600 Sep  3 18:58 bayestar.fits
+-rw-r--r--@  1 npr1  staff  777600 Sep  3 18:58 bayestar.fits,3
+
+/cos_pc19a_npr/data/LIGO/O3/S190503bf > cksum bayestar.fits
+3397100190 777600 bayestar.fits
+/cos_pc19a_npr/data/LIGO/O3/S190503bf > cksum bayestar.fits,3
+3397100190 777600 bayestar.fits,3
+
+
+

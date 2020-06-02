@@ -1,0 +1,27 @@
+
+
+
+
+ Data Source
+==============================================================================
+Data straight from GraceDB — Gravitational-Wave Candidate Event Database
+
+https://gracedb.ligo.org/
+https://gracedb.ligo.org/search/
+https://gracedb.ligo.org/superevents/public/O3/
+
+Data collated and found in
+   ~/data/LIGO/O3/SuperEvents_latest.tbl
+
+
+
+
+ General notes
+==============================================================================
+55, out of 56 objects in O3 objects in total
+
+S200114f not included. 
+https://gracedb.ligo.org/superevents/S200114f/view/
+found by unmodelled burst search
+
+"CWB pipeline" doesn't give Source properties/classification
